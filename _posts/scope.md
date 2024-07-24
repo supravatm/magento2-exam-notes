@@ -1,7 +1,5 @@
 ---
-title: Exam objectives and scope
-date: 2021-08-10
-category: Jekyll
+title: Objectives and scope
 layout: post
 ---
 

@@ -1,8 +1,5 @@
 ---
 title: How to Get Started
-author: Tao He
-date: 2019-04-28
-category: Jekyll
 layout: post
 ---
 Provides information to set up a Magento 2 Development Environment with Docker

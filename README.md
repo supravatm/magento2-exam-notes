@@ -11,6 +11,9 @@ Certification for Adobe Commerce Developer Professional(AD0-E717)
 Live on Github Pages: [ magento2-exam-notes](https://supravatm.github.io/magento2-exam-notes)
 
 ## Exam details:
+[Exam Preparation Guide: Adobe Commerce Developer - Professional Certification](https://express.adobe.com/page/N9ImQqutQZ4eO/)
+
+
 Certification at Adobe(AD0-E717) [Exam Guide](https://experienceleague.adobe.com/en/docs/certification/program/technical-certifications/ac/ac-professional/ac-p-developer)
 
 ## Exam objectives and scope
