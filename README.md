@@ -8,9 +8,9 @@ Make Jelly site have a GitBook look!
 
 ## Demo
 
-Live demo on Github Pages: [https://sighingnow.github.io/jekyll-gitbook](https://sighingnow.github.io/jekyll-gitbook)
+Live demo on Github Pages: [https://supravatm.github.io/magento2-exam-notes](https://supravatm.github.io/magento2-exam-notes)
 
-[![Jekyll Themes](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com/jekyll-gitbook/)
+[![Jekyll Themes](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com/magento2-exam-notes/)
 
 ## Why Jekyll with GitBook
 
@@ -37,7 +37,7 @@ You can introduce this jekyll theme into your own site by either
   site itself),
 
 ```yaml
-remote_theme: sighingnow/jekyll-gitbook
+remote_theme: sighingnow/magento2-exam-notes
 ```
 
 ### Deploy Locally with Jekyll Serve
@@ -48,9 +48,9 @@ This theme can be ran locally using Ruby and Gemfiles.
 
 ## Full-text search
 
-The search functionality in jekyll-gitbook theme is powered by the [gitbook-plugin-search-pro][5] plugin and is enabled by default.
+The search functionality in magento2-exam-notes theme is powered by the [gitbook-plugin-search-pro][5] plugin and is enabled by default.
 
-[https://sighingnow.github.io/jekyll-gitbook/?q=generated](https://sighingnow.github.io/jekyll-gitbook/?q=generated)
+[https://supravatm.github.io/magento2-exam-notes/?q=generated](https://supravatm.github.io/magento2-exam-notes/?q=generated)
 
 ## Code highlight
 
@@ -65,7 +65,7 @@ style can be added to [./assets/gitbook/rouge/](./assets/gitbook/rouge/).
 
 ## How to generate TOC
 
-The jekyll-gitbook theme leverages [jekyll-toc][4] to generate the *Contents* for the page.
+The magento2-exam-notes theme leverages [jekyll-toc][4] to generate the *Contents* for the page.
 The TOC feature is not enabled by default. To use the TOC feature, modify the TOC
 configuration in `_config.yml`:
 
@@ -159,7 +159,7 @@ The fonts can be customized by modifying the `.book.font-family-0` and `.book.fo
 
 ## Tips, Warnings and Dangers blocks
 
-The jekyll-gitbook theme supports customized kramdown attributes (`{: .block-tip }`, `{: .block-warning }`,
+The magento2-exam-notes theme supports customized kramdown attributes (`{: .block-tip }`, `{: .block-warning }`,
 `{: .block-danger }`) like that displayed in [the discord.js website][11]. The marker can be used like
 
 ```markdown
@@ -172,11 +172,11 @@ The jekyll-gitbook theme supports customized kramdown attributes (`{: .block-tip
 
 Rendered page can be previewed from
 
-[https://sighingnow.github.io/jekyll-gitbook/jekyll/2022-06-30-tips_warnings_dangers.html](https://sighingnow.github.io/jekyll-gitbook/jekyll/2022-06-30-tips_warnings_dangers.html)
+[https://supravatm.github.io/magento2-exam-notes/jekyll/2022-06-30-tips_warnings_dangers.html](https://supravatm.github.io/magento2-exam-notes/jekyll/2022-06-30-tips_warnings_dangers.html)
 
 ## Cover image inside pages
 
-The jekyll-gitbook theme supports adding a cover image to a specific page by adding
+The magento2-exam-notes theme supports adding a cover image to a specific page by adding
 a `cover` field to the page metadata:
 
 ```diff
@@ -186,13 +186,13 @@ a `cover` field to the page metadata:
   date: 2022-05-24
   category: Jekyll
   layout: post
-+ cover: /assets/jekyll-gitbook/dinosaur.gif
++ cover: /assets/magento2-exam-notes/dinosaur.gif
   ---
 ```
 
 The effect can be previewed from
 
-[https://sighingnow.github.io/jekyll-gitbook/jekyll/2022-05-24-page_cover.html](https://sighingnow.github.io/jekyll-gitbook/jekyll/2022-05-24-page_cover.html)
+[https://supravatm.github.io/magento2-exam-notes/jekyll/2022-05-24-page_cover.html](https://supravatm.github.io/magento2-exam-notes/jekyll/2022-05-24-page_cover.html)
 
 ## Diagrams with mermaid.js
 
@@ -210,7 +210,7 @@ mermaid: true
 
 The example can be previewed from
 
-[https://sighingnow.github.io/jekyll-gitbook/jekyll/2023-08-31-mermaid.html](https://sighingnow.github.io/jekyll-gitbook/jekyll/2023-08-31-mermaid.html)
+[https://supravatm.github.io/magento2-exam-notes/jekyll/2023-08-31-mermaid.html](https://supravatm.github.io/magento2-exam-notes/jekyll/2023-08-31-mermaid.html)
 
 ## License
 
@@ -220,16 +220,16 @@ Copyright 2019 Tao He.
 
 [1]: https://pages.github.com
 [2]: https://pages.github.com/themes
-[3]: https://github.com/sighingnow/jekyll-gitbook/fork
+[3]: https://github.com/sighingnow/magento2-exam-notes/fork
 [4]: https://github.com/allejo/jekyll-toc
 [5]: https://github.com/gitbook-plugins/gitbook-plugin-search-pro
 [6]: https://github.com/rouge-ruby/rouge/tree/master/lib/rouge/themes
 [7]: https://analytics.google.com/analytics/web/
 [8]: https://www.cnzz.com/
 [9]: https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview
-[10]: https://github.com/sighingnow/jekyll-gitbook/blob/master/gitbook/custom.css
+[10]: https://github.com/sighingnow/magento2-exam-notes/blob/master/gitbook/custom.css
 [11]: https://discordjs.guide/popular-topics/canvas.html#setting-up-napi-rs-canvas
 [12]: https://rubygems.org/gems/jekyll-remote-theme
 [13]: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
-[14]: https://github.com/sighingnow/jekyll-gitbook/blob/master/_config.yml
+[14]: https://github.com/sighingnow/magento2-exam-notes/blob/master/_config.yml
 [15]: https://jekyllrb.com/docs/collections/
